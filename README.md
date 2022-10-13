@@ -1,4 +1,6 @@
-# Ecomm-management
+# Work in progress
+
+### Ecomm-management
 
 Ecomm-management is app for managing stores in E-marketplace.
 
